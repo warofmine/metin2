@@ -1,0 +1,52 @@
+=== DLL INJECTOR KULLANIM TALİMATLARI ===
+
+📁 Dosyalar:
+- DLL_Injector.exe (Ana program)
+- PickCloseItem.dll (Inject edilecek DLL)
+
+🔧 Kullanım Adımları:
+
+1. OYUNU BAŞLAT
+   - Metin2 oyununu çalıştır
+   - Oyuna giriş yap
+
+2. INJECTOR'ı ÇALIŞTIR
+   - DLL_Injector.exe'yi yönetici olarak çalıştır
+   - Process listesi otomatik olarak yüklenecek
+
+3. PROCESS SEÇ
+   - "Process Secin" listesinden oyunu bul
+   - "metin2client.exe" veya oyun exe'sini seç
+   - "Yenile" butonu ile listeyi güncelleyebilirsin
+
+4. DLL SEÇ
+   - "Dosya Sec" butonuna tıkla
+   - PickCloseItem.dll dosyasını seç
+   - Dosya yolu görünecek
+
+5. INJECT ET
+   - "DLL Inject Et" butonuna tıkla
+   - "BASARILI: DLL inject edildi!" mesajını bekle
+
+✅ Başarılı Inject Sonrası:
+- DLL otomatik olarak çalışmaya başlar
+- Her 1 saniyede bir toplama yapar
+- Konsol penceresi açılmaz
+- Sessiz çalışır
+
+⚠️ Önemli Notlar:
+- Injector'ı yönetici olarak çalıştır
+- Oyun çalışırken inject et
+- Antivirüs uyarısı gelebilir (normal)
+- Process listesinden doğru oyunu seç
+
+🔍 Sorun Giderme:
+- "Process acilamadi" → Yönetici olarak çalıştır
+- "DLL secin" → Dosya seçimini yap
+- "Thread olusturulamadi" → Yönetici olarak çalıştır
+- "Yenile" butonu ile process listesini güncelle
+
+📞 Destek:
+- Hata durumunda durum mesajını kontrol et
+- Process listesinden doğru oyunu seçtiğinden emin ol
+- Oyunun çalışır durumda olduğunu kontrol et 
